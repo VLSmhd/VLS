@@ -68,9 +68,4 @@ security:
 sitemap:
   _merge: deep
   
-  appearance:
-  theme_day: ocean
-  theme_night: earth
-  font: minimal
-  font_size: L
 
