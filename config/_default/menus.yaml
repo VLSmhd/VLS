@@ -7,10 +7,10 @@ main:
  - name: Home
     url: /
     weight: 10
-  - name: Tags
+ - name: Tags
     identifier: tags
     weight: 20
-  - name: Academic
+ - name: Academic
     parent: tags
     url: tags/academic/
     weight: 10
